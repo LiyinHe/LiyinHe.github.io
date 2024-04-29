@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "LiyinHe.github.io"
+  title: "Dr. Liyin He"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Research.qmd
+      - Publications.qmd
+      - Opportunities.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 
 
