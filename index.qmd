@@ -1,5 +1,6 @@
 ---
 title: "Liyin He"
+resources: people/resume/Liyin He_CV_v3.pdf
 about:
   template: trestles
   image: pics/liyin.png
@@ -12,7 +13,13 @@ about:
       href: https://www.linkedin.com/in/liyin-he-272214a5/ 
     - icon: google
       text: google scholar      
-      href: https://scholar.google.com/citations?user=ITMmmQIAAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=ITMmmQIAAAAJ&hl=en 
+    - icon: envelope
+      text: email   
+      href: "mailto:he.liyin@duke.edu"
+    - icon: file-text
+      text: resume   
+      href: people/resume/Liyin He_CV_v3.pdf
 ---
 
 :::{#hero-heading}
