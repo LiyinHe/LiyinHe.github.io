@@ -1,0 +1,13 @@
+---
+title: "Estimating nitrous oxide (N2O) emissions for the Los Angeles Megacity using mountaintop remote sensing observations"
+author: "Addington, Olivia and Zeng, Zhao-Cheng and Pongetti, Thomas and Shia, Run-Lie and Gurney, Kevin R and Liang, Jianming and Roest, Geoffrey and He, Liyin and Yung, Yuk L and Sander, Stanley P"
+type: "article"
+year: 2021
+publication: "Remote Sensing of Environment"
+doi: "10.1016/j.rse.2021.112351"
+materials: ""
+toc: false
+---
+
+## Abstract
+

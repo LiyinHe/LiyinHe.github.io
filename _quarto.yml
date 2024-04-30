@@ -8,16 +8,21 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Research.qmd
-      - Publications.qmd
-      - Opportunities.qmd
+      - href: Research.qmd
+        text: Research
+      - href: Publications.qmd
+        text: Publications
+      - href: Opportunities.qmd
+        text: Opportunities
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: False
     page-layout: full
+    
+    
 
 
 

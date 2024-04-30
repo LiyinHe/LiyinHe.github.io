@@ -1,0 +1,13 @@
+---
+title: "Regional inversion shows promise in capturing extreme-event-driven CO2 flux anomalies but is limited by atmospheric CO2 observational coverage"
+author: "Byrne, Brendan and Liu, Junjie and Bowman, Kevin W and Yin, Yi and Yun, Jeongmin and Ferreira, Gabriel and Ogle, Stephen and Baskaran, Latha and He, Liyin and Li, Xing and others"
+type: "article"
+year: 2024
+publication: "Journal of Geophysical Research: Atmospheres"
+doi: "10.1029/2023JD040006"
+materials: ""
+toc: false
+---
+
+## Abstract
+

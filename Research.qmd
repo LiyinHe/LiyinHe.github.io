@@ -1,4 +1,14 @@
 ---
-title: "Research"
-editor: visual
+title: Research areas
+toc: True
 ---
+
+### **Topic 1: Remote sensing of photosynthesis and crop yield**
+
+### **Topic 2: Climate–vegetation–carbon cycle feedbacks**
+
+### **Topic 3: Impacts of air quality on terrestrial carbon uptake and crop yield**
+
+### **Topic 4: Water scarcity and food security**
+
+

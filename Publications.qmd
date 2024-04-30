@@ -1,6 +1,21 @@
 ---
 title: "Publications"
-editor: visual
+date: today
+date-format: "MMM D, YYYY"
+listing:
+  - id: articles
+    contents: "people/publications/**.qmd"
+    template: ./ejs/article.ejs
+    categories: true
+    sort:
+      - "year desc"
+    sort-ui: [author,year]
+    filter-ui: [title,year]
+    page-size: 80
+    field-display-names: 
+      publication: "Publication"
+      year: "Year"
 ---
 
-## 2023
+:::{#articles}
+:::

@@ -1,0 +1,19 @@
+<ul class="pub-list list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+    <span class="listing-title lead" style="color:blue;font-weight:bold"><%= item.title %></span><br />
+    <span class="listing-author">
+      <%= item.author.replace('He, Liyin', '<strong>He, Liyin</strong>') %>
+    </span>
+    <span class="listing-publication fst-italic ">
+      <strong><%= item.publication %></strong>
+    </span>
+    <span class="listing-year">(<%= item.year %>)</span>
+    <% if (item.doi) { %>
+    <a href="https://doi.org/<%- item.doi %>">
+      DOI
+    </a>
+    <% } %>
+  </li>
+<% } %>
+</ul>

@@ -1,0 +1,13 @@
+---
+title: "Antarctic sea ice change based on a new sea ice dataset from 1992 to 2008"
+author: "He, Liyin and Ke, Changqing and Zhou, Xiaobing and Cui, Yanan and Shan, Liang"
+type: "article"
+year: 2016
+publication: "Climate Research"
+doi: "10.3354/cr01436"
+materials: ""
+toc: false
+---
+
+## Abstract
+
