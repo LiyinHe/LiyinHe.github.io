@@ -3,7 +3,7 @@ title: "Liyin He"
 resources: people/resume/Liyin He_CV_v3.pdf
 about:
   template: trestles
-  image: pics/grad_photo.jpg
+  image: pics/liyin_PKU.jpg
   links:
     - icon: twitter
       text: twitter
