@@ -5,7 +5,7 @@ date-format: "MMM D, YYYY"
 
 # Interested in joining the group?
 
-I am actively looking for dedicated and enthusiastic PhD students, Postdoctoral researchers, and visiting scholars to join our team. There will be flexibility regarding scientific questions to be studied, but potential areas of focus include: 
+I am actively looking for dedicated and enthusiastic PhD students, Postdoctoral researchers, and visiting students/scholars to join our team. There will be flexibility regarding scientific questions to be studied, but potential areas of focus include: 
 
 - Advance understanding of the terrestrial carbon cycle by employing eddy covariance measurements, airborne/satellite remote sensing, atmospheric inversions, and Earth system modeling.
 
