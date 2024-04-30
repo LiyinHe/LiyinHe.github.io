@@ -1,7 +1,5 @@
 ---
 title: "Publications"
-date: today
-date-format: "MMM D, YYYY"
 listing:
   - id: articles
     contents: "people/publications/**.qmd"

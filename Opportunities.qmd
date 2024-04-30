@@ -1,4 +1,7 @@
-
+---
+date: today
+date-format: "MMM D, YYYY"
+---
 
 # Interested in joining the group?
 
