@@ -44,3 +44,10 @@ I studied the role of irrigation in enhancing agricultural resilience and mitiga
 
 Looking forward, I am interested in integrating process-based models, satellite remote sensing, and machine learning approaches to examine the **interconnected factors that influence the spatio-temporal variations in crop yields**, and evaluate **how different agricultural management practices will affect crop yields, greenhouse gas emissions and soil carbon stocks**. These findings will then be used to inform tailored strategies which aims not only to optimize crop yields but also to reduce agriculture’s carbon footprint.
 
+
+## Selected Media Outreach
+New Scientist: [Plants are more productive on weekends thanks to cleaner air](https://www.newscientist.com/article/2403856-plants-are-more-productive-on-weekends-thanks-to-cleaner-air/)\
+Stanford Highlights: [Improved air quality could enhance natural carbon sequestration by plants](https://fse.fsi.stanford.edu/news/improved-air-quality-could-enhance-natural-carbon-sequestration-plants)\
+Carnegie Science Highlights: [Improved air quality could enhance natural carbon sequestration by plants](https://carnegiescience.edu/improved-air-quality-could-enhance-natural-carbon-sequestration-plants)\
+Caltech Highlights: [Natural-Gas Leaks are Important Source of Greenhouse Gas Emissions in Los Angeles](https://www.caltech.edu/about/news/natural-gas-leaks-are-important-source-greenhouse-gas-emissions-los-angeles)\
+
