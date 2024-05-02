@@ -16,7 +16,7 @@ about:
       href: https://scholar.google.com/citations?user=ITMmmQIAAAAJ&hl=en 
     - icon: envelope
       text: email   
-      href: "mailto:he.liyin@duke.edu"
+      href: "mailto:liyin.he@duke.edu"
     - icon: file-text
       text: resume   
       href: people/resume/Liyin He_CV_v3.pdf
@@ -24,7 +24,7 @@ about:
 
 :::{#hero-heading}
 
-**I will join [Nicholas School of the Environment (NSOE)](https://nicholas.duke.edu/) at [Duke University](https://duke.edu/) as an assistant professor in Jan 2025!** I am actively looking for dedicated and enthusiastic PhD students, Postdoctoral researchers, and visiting students/scholars to join our team. Please contact me <he.liyin@duke.edu> by including your CV, anticipated start date and research interests.
+**I will join [Nicholas School of the Environment (NSOE)](https://nicholas.duke.edu/) at [Duke University](https://duke.edu/) as an assistant professor in Jan 2025!** I am actively looking for dedicated and enthusiastic PhD students, Postdoctoral researchers, and visiting students/scholars to join our team. Please contact me <liyin.he@duke.edu> by including your CV, anticipated start date and research interests.
 
 My research focuses on understanding the **interrelationship between air, water, and ecosystem** in the face of climate change, elevated CO~2~, air pollution, and different management practices. I use three main approaches: 1) **spatiotemporal data analysis** to interpret field and satellite observations; 2) **machine learning approaches** to generate novel datasets; and 3) **process-based terrestrial biosphere models** to understand the underlying mechanism. My work encompasses a wide range of scales—from the **micro-level interactions within individual plants** to **macro-level regional and global patterns**.
 
