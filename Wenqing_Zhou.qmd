@@ -1,0 +1,33 @@
+---
+title: "Wenqing Zhou"
+resources: people/resume/CV_Wenqing.pdf
+about:
+  template: trestles
+  image: pics/Wenqing_full.jpg
+  links:
+    - icon: envelope
+      text: email   
+      href: "mailto:wenqing.Zhou@duke.edu"
+    - icon: file-text
+      text: resume   
+      href: people/resume/CV_Wenqing Zhou.pdf
+---
+
+::: {#hero-heading}
+Wenqing is a Ph.D. student in the University Program in Ecology (UPE) at Duke University. She is interested in how climate change and human activities affect ecosystem processes. Her research focuses on carbon and water cycles in terrestrial ecosystems by integrating field measurements, remote sensing data, and process-based modeling. Her work aims to understand the complex interactions among heat, water, and carbon under global change, providing insights to inform climate adaptation and sustainable management. With a B.Eng. and M.Eng. in Hydrology, she also pursues interests in urban hydrometeorology. Before joining Duke, she worked with Dr. Liping Zhang at Wuhan University, where she studied the impacts of urbanization on humid heat through historical pattern identification, mechanism analysis, and scenario-based projections.
+
+## **Research Interests**
+
+-  Terrestrial ecosystems
+-  Extreme events
+-  Land-atmosphere interactions
+-  Urban hydrometeorology
+
+## **Education**
+
+**Wuhan University** \| M.Eng. \|Sep 2022 - Jun 2025\
+-   **Major**: Hydrology and Water Resources \
+**Nanjing University** \| B.Eng.  \|Sep 2018 - Jun 2022\
+-   **Major**: Hydrology and Water Resources Engineering (Dayu)\
+
+:::

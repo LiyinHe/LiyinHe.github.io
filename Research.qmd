@@ -10,7 +10,7 @@ fig-align: center
 ::: {#first-column}
 \
 \
-My research explores the complex relationships among **Carbon-Air-Water** in the face of climate change, elevated atmospheric CO~2~, air pollution, and different management practices. I use an integrated earth-system framework to study terrestrial ecology that connects:
+Our research explores the complex relationships among **Carbon-Air-Water** in the face of climate change, elevated atmospheric CO~2~, air pollution, and different management practices. I use an integrated earth-system framework to study terrestrial ecology that connects:
 
 - Plant Ecology (Terrestrial Carbon Cycle)
 - Climatology (Air Quality and Climate) 
@@ -25,7 +25,7 @@ My research explores the complex relationships among **Carbon-Air-Water** in the
 ::::
 
 
-My work encompasses a wide range of scales—from the micro-level interactions within individual plants to macro-level regional and global patterns. Across different scales, I use different sensing technologies, including leaf gas-exchange system, eddy covariance measurements, and ground/airborne/satellite remote sensing. The knowledge gained from these data-driven approaches are crucial for improving ecosystem models and calibrating parameters, enabling more accurate predictions of ecosystem trajectories under climate change. These scientific insights will be leveraged to empower policymakers and stakeholders to develop more effective and targeted strategies for climate adaptation and mitigation.
+Our work encompasses a wide range of scales—from the micro-level interactions within individual plants to macro-level regional and global patterns. Across different scales, I use different sensing technologies, including leaf gas-exchange system, eddy covariance measurements, and ground/airborne/satellite remote sensing. The knowledge gained from these data-driven approaches are crucial for improving ecosystem models and calibrating parameters, enabling more accurate predictions of ecosystem trajectories under climate change. These scientific insights will be leveraged to empower policymakers and stakeholders to develop more effective and targeted strategies for climate adaptation and mitigation.
 
 ![**Cross-scale sensing and modeling of ecosystem processes**](pics/cross_scale.png)
 

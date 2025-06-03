@@ -1,0 +1,48 @@
+---
+title: "Dr. Liyin He"
+resources: people/resume/Liyin He_CV_v3.pdf
+about:
+  template: trestles
+  image: pics/liyin_PKU.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/he_liyin 
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/liyin-he-272214a5/ 
+    - icon: google
+      text: google scholar      
+      href: https://scholar.google.com/citations?user=ITMmmQIAAAAJ&hl=en 
+    - icon: envelope
+      text: email   
+      href: "mailto:liyin.he@duke.edu"
+    - icon: file-text
+      text: resume   
+      href: people/resume/Liyin He_CV_v3.pdf
+---
+
+::: {#hero-heading}
+**My research focuses on understanding the **interrelationship between air, water, and ecosystem in the face of climate change, elevated CO~2~, air pollution, and different management practices. I use three main approaches: 1) **spatiotemporal data analysis** to interpret field and satellite observations; 2) **machine learning approaches** to generate novel datasets; and 3) **process-based terrestrial biosphere models** to understand the underlying mechanism. My work encompasses a wide range of scales---from the **micro-level interactions within individual plants** to **macro-level regional and global patterns**.
+
+## **Appointment**
+
+**Duke University** \| Jan 2025 - now\
+-   **Assistant Professor** at the Nicholas School of the Environment
+
+**Carnegie Institution for Science (at Stanford University)** \| Aug 2022 - Dec 2024\
+-   **Postdoctoral Research Associate** at Department of Global Ecology\
+-   **Advisor**: Dr. Lorenzo Rosa
+
+## **Education**
+
+**California Institute of Technology** \| Ph.D \| Sep 2016 - Jul 2022\
+-   **Major**: Environmental Science & Engineering\
+-   **Minor**: Applied and Computational Mathematics\
+-   **Thesis Advisory Committee**: Dr. Christian Frankenberg (advisor), Dr. Paul Wennberg (chair), Dr. Yuk Yung and Dr. David Schimel\
+-   **Thesis**: [Agriculture and Its Role in the Global Carbon Cycle](https://thesis.library.caltech.edu/15140/)
+
+**Nanjing University** \| B.S \|Sep 2012 - Jun 2016\
+-   **Major**: Geographic Information Science (with honor)\
+-   **Minor**: Financial Engineering
+:::

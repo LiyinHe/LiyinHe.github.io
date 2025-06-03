@@ -1,0 +1,38 @@
+---
+title: "Shiqi Miao"
+resources: people/resume/CV_Shiqi.pdf
+about:
+  template: trestles
+  image: pics/Shiqi_full.jpg
+  links:
+    - icon: envelope
+      text: email   
+      href: "mailto:shiqi.miao@duke.edu"
+    - icon: file-text
+      text: resume   
+      href: people/resume/CV_Shiqi.pdf
+---
+
+::: {#hero-heading}
+Shiqi will join Duke University as a Ph.D. student in Ecology in August 2025, working with Prof. Liyin He. She is interested in addressing interdisciplinary challenges at the nexus of climate change, terrestrial ecosystems, urban thermal dynamics, and public health. By integrating remote sensing, modeling, and data science approaches, she seeks to advance scientific understanding and inform practical strategies for urban climate resilience. 
+
+Prior to Duke, she earned both bachelor’s and master’s degrees at Nanjing University under the guidance of Prof. Wenfeng Zhan. There, she investigated thermal remote sensing applications with a focus on the synergy between heatwaves and urban heat island effects. 
+
+Shiqi was awarded the <a href="https://gradschool.duke.edu/financial-support/find-funding/james-b-duke-fellowship/" target="_blank">James B. Duke Fellowship</a>, a prestigious and competitive award given to outstanding incoming Ph.D. students. Recipients are nominated by their department and selected by a university-wide faculty committee.
+
+## **Research Interests**
+
+-  Monitor and projections of individual and compound extreme events under future scenarios
+-  Natural and socioeconomic drivers of population exposure to climate risks
+-  Effective nature-based solutions for climate adaptation across various contexts
+-  Data and analysis framework improvement (by integrating remote sensing, machine learning, ecophysical modeling) for climate impact assessment
+
+## **Education**
+
+**Nanjing University** \| M.S \|Sep 2020 - Jun 2023\
+-   Major: Cartography and Geography Information System\
+-   National Scholarship (2/129, 2022)\
+**Nanjing University** \| B.S \|Sep 2016 - Jun 2020\
+-   Major: Geographic Information Science (with honor)\
+-   National Scholarship (1/70, 2017)
+:::
