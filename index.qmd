@@ -26,7 +26,7 @@ format:
       <b>Our research aims to bridge fundamental ecological science with real-world applications that deliver socioeconomic benefits, including but not limited to:</b>
       <ul>
         <li>Enhancing forest management to increase carbon sequestration</li>
-        <li>Improving crop yields to support food security</li>
+        <li>Improving crop yields and water use efficiecny to support food and water security</li>
         <li>Mitigating urban heat to protect public health</li>
       </ul>
   </p>
