@@ -3,7 +3,6 @@ title: "Welcome to EcoSense Lab"
 format:
   html:
     toc: false
-    theme: lux
     css: styles.css # You can link to a custom CSS file for more styling
 ---
 

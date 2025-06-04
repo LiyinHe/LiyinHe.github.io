@@ -96,17 +96,3 @@ figcaption {
   text-align: center; /* Ensures text is left-aligned */
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  .group-member {
-    flex-direction: column;
-    text-align: center; /* This centers the entire block on small screens */
-  }
-  .group-member p {
-    text-align: center; /* Ensure text is centered on small screens when the entire block is centered */
-  }
-  .profile-pic {
-    margin-bottom: 10px;
-  }
-}
-
