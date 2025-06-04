@@ -133,6 +133,19 @@ figcaption {
     margin-bottom: 10px;
   }
   
+  .scroll-container {
+    overflow-x: auto;
+    display: block !important; /* stack items vertically */
+    white-space: normal;
+  }
+
+  .scroll-card {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-bottom: 20px;
+  }
+  
   .group-member {
     flex-direction: column;
     text-align: center; /* This centers the entire block on small screens */

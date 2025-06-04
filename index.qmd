@@ -38,11 +38,11 @@ format:
 
 <div style="overflow-x: auto; white-space: nowrap; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
   
-  <div class="card d-inline-block me-3" style="width: 60%; max-width: 700px; scroll-snap-align: start;">
-  <img src="pics/publications/Ren_NatureFood.jpg" class="card-img-top" alt="Publication 2">
+  <div class="card d-inline-block me-3" style="width: 60%; max-width: 550px; scroll-snap-align: start;">
+  <img src="pics/publications/Ren_NatureFood_small.jpg" class="card-img-top" alt="Publication 2">
   <div class="card-body">
-  <h5 class="card-title">Integrated irrigation and nitrogen optimization for US maize and soybean</h5>
-  <p class="card-text">This study reveals the critical role of integrated management of irrigation and N inputs to adapt to climate change, promoting both sustainable water uses and N applications and maintaining crop yields under future warming, published in <a href="https://www.nature.com/articles/s43016-024-01107-6" target="_blank">*Nature Food*</a>.</p>
+  <h5 class="card-title">Irrigation and nitrogen optimization for US crops</h5>
+  <p class="card-text">This study highlights the importance of integrated irrigation and nitrogen management in promoting sustainable resource use while maintaining crop yields under warming, published in <a href="https://www.nature.com/articles/s43016-024-01107-6" target="_blank">*Nature Food*</a>.</p>
   </div>
   </div>
   
