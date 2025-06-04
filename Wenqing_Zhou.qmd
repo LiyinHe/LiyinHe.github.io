@@ -10,7 +10,7 @@ about:
       href: "mailto:wenqing.Zhou@duke.edu"
     - icon: file-text
       text: resume   
-      href: people/resume/CV_Wenqing Zhou.pdf
+      href: people/resume/CV_Wenqing.pdf
 ---
 
 ::: {#hero-heading}
