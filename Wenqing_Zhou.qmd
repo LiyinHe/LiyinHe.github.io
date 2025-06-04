@@ -7,7 +7,7 @@ about:
   links:
     - icon: envelope
       text: email   
-      href: "mailto:wenqing.Zhou@duke.edu"
+      href: "mailto:wenqing.zhou@duke.edu"
     - icon: file-text
       text: resume   
       href: people/resume/CV_Wenqing.pdf
