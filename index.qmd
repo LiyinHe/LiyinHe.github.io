@@ -38,7 +38,7 @@ format:
 
 <div style="overflow-x: auto; white-space: nowrap; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
   
-  <div class="card d-inline-block me-3" style="width: 60%; max-width: 550px; scroll-snap-align: start;">
+  <div class="card d-inline-block me-3" style="width: 60%; max-width: 530px; scroll-snap-align: start;">
   <img src="pics/publications/Ren_NatureFood_small.jpg" class="card-img-top" alt="Publication 2">
   <div class="card-body">
   <h5 class="card-title">Irrigation and nitrogen optimization for US crops</h5>
@@ -46,7 +46,7 @@ format:
   </div>
   </div>
   
-  <div class="card d-inline-block me-3" style="width: 60%; max-width: 550px; scroll-snap-align: start;">
+  <div class="card d-inline-block me-3" style="width: 60%; max-width: 530px; scroll-snap-align: start;">
   <img src="pics/publications/He_PNAS.jpg" class="card-img-top" alt="Publication 3">
   <div class="card-body">
   <h5 class="card-title">Impacts of air quality on photosynthesis</h5>
@@ -54,19 +54,19 @@ format:
   </div>
   </div>
   
-  <div class="card d-inline-block me-3" style="width: 60%; max-width: 550px; scroll-snap-align: start;">
+  <div class="card d-inline-block me-3" style="width: 60%; max-width: 530px; scroll-snap-align: start;">
   <img src="pics/publications/Yin_ScienceAdvances.jpg" class="card-img-top" alt="Publication 4">
   <div class="card-body">
   <h5 class="card-title">Unequal exposure to heatwaves in Los Angeles</h5>
-  <p class="card-text">Using NASA ECOSTRESS data, we find that low-income neighborhoods in Los Angeles experience higher land surface temperature and lower evapotranspiration during heatwaves, published in <a href="https://www.science.org/doi/full/10.1126/sciadv.ade8501" target="_blank">*Science Advances*</a>.</p>
+  <p class="card-text">Using NASA ECOSTRESS data, we find that low-income neighborhoods in Los Angeles experience higher land surface temperature during heatwaves, published in <a href="https://www.science.org/doi/full/10.1126/sciadv.ade8501" target="_blank">*Science Advances*</a>.</p>
   </div>
   </div>
 
-  <div class="card d-inline-block" style="width: 60%; max-width: 550px; scroll-snap-align: start;">
+  <div class="card d-inline-block" style="width: 60%; max-width: 530px; scroll-snap-align: start;">
   <img src="pics/publications/Cen_OneEarth.jpg" class="card-img-top" alt="Greening Urban Spaces">
   <div class="card-body">
   <h5 class="card-title">Global patterns of nitrogen saturation in forests</h5>
-  <p class="card-text">The map of forest nitrogen status was developed to predict forest greenhouse gas emissions and support the implementation of region-specific environmental management practices, published in <a href="https://www.cell.com/one-earth/fulltext/S2590-3322(24)00531-1" target="_blank">*One Earth*</a>.</p>
+  <p class="card-text">The map of forest nitrogen status is developed to support the implementation of region-specific environmental management practices, published in <a href="https://www.cell.com/one-earth/fulltext/S2590-3322(24)00531-1" target="_blank">*One Earth*</a>.</p>
   </div>
   </div>
   
