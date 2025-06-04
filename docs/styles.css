@@ -96,3 +96,53 @@ figcaption {
   text-align: center; /* Ensures text is left-aligned */
 }
 
+@media (max-width: 768px) {
+  .group-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .group-description-box ul {
+    padding-left: 1rem;
+    text-align: left;
+  }
+
+  .logo-and-tagline {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .row > .col-md-6,
+  .row > .col {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+
+  .card-body {
+    padding: 1rem;
+    text-align: left;
+  }
+
+  .card-title,
+  .card-text {
+    text-align: left;
+  }
+
+  .img-fluid {
+    margin-bottom: 10px;
+  }
+  
+  .group-member {
+    flex-direction: column;
+    text-align: center; /* This centers the entire block on small screens */
+  }
+  .group-member p {
+    text-align: center; /* Ensure text is centered on small screens when the entire block is centered */
+  }
+  .profile-pic {
+    margin-bottom: 10px;
+  }
+}
+
+

@@ -15,7 +15,7 @@ format:
   </div>
   <div class="group-description-box">
   <p>
-      <b>We are ecologists dedicated to advancing the understanding of how terrestrial ecosystems interact with climate using a variety of tools:</b>
+      <b>We are ecologists in the <a href="https://nicholas.duke.edu/" target="_blank">Nicholas School of the Environment</a> at Duke University, dedicated to understand terrestrial ecosystem processes using a variety of tools:</b>
       <ul>
         <li>Satellite remote sensing (Solar-induced chlorophyll fluorescence, Optical remote sensing, Thermal remote sensing)</li>
         <li>Artificial intelligence (Interoperable AI, Process-informed machine learning)</li>
