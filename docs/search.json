@@ -123,7 +123,7 @@
     "href": "Wenqing_Zhou.html",
     "title": "Wenqing Zhou",
     "section": "",
-    "text": "Wenqing is a Ph.D. student in the University Program in Ecology (UPE) at Duke University. She is interested in how climate change and human activities affect ecosystem processes. Her research focuses on carbon and water cycles in terrestrial ecosystems by integrating field measurements, remote sensing data, and process-based modeling. Her work aims to understand the complex interactions among heat, water, and carbon under global change, providing insights to inform climate adaptation and sustainable management. With a B.Eng. and M.Eng. in Hydrology, she also pursues interests in urban hydrometeorology. Before joining Duke, she worked with Dr. Liping Zhang at Wuhan University, where she studied the impacts of urbanization on humid heat through historical pattern identification, mechanism analysis, and scenario-based projections.\n\n\n\nTerrestrial ecosystems\nExtreme events\nLand-atmosphere interactions\nUrban hydrometeorology\n\n\n\n\nWuhan University | M.Eng. |Sep 2022 - Jun 2025\n- Major: Hydrology and Water Resources\nNanjing University | B.Eng. |Sep 2018 - Jun 2022\n- Major: Hydrology and Water Resources Engineering (Dayu)"
+    "text": "Wenqing is a Ph.D. student in the University Program in Ecology (UPE) at Duke University. She is interested in how climate change and human activities affect ecosystem processes. Her research focuses on carbon and water cycles in terrestrial ecosystems by integrating field measurements, remote sensing data, and process-based modeling. Her work aims to understand the complex interactions among heat, water, and carbon under global change, providing insights to inform climate adaptation and sustainable management. With a B.Eng. and M.Eng. in Hydrology, she also pursues interests in urban hydrometeorology. Before joining Duke, she worked with Dr. Liping Zhang at Wuhan University, where she studied the impacts of urbanization on humid heat through historical pattern identification, mechanism analysis, and scenario-based projections.\n\n\n\nTerrestrial ecosystems\nExtreme events\nLand-atmosphere interactions\nUrban hydrometeorology\n\n\n\n\nWuhan University | M.Eng. |Sep 2022 - Jun 2025\n- Major: Hydrology and Water Resources\nHohai University | B.Eng. |Sep 2018 - Jun 2022\n- Major: Hydrology and Water Resources Engineering (Dayu)"
   },
   {
     "objectID": "index.html#principal-investigator",
@@ -131,5 +131,33 @@
     "title": "Welcome to EcoSense Lab",
     "section": "Principal Investigator",
     "text": "Principal Investigator\n\n\n\nDr. Liyin HeAssistant Professor of Terrestrial EcologyA207 Levine Science Research CenterNicholas School of the EnvironmentDuke UniversityDurham, NC 27708"
+  },
+  {
+    "objectID": "index.html#research-highlights",
+    "href": "index.html#research-highlights",
+    "title": "Welcome to EcoSense Lab",
+    "section": "Research Highlights",
+    "text": "Research Highlights\n\n\n\n\n\nIntegrated irrigation and nitrogen optimization for US maize and soybean\n\n\nThis study reveals the critical role of integrated management of irrigation and N inputs to adapt to climate change, promoting both sustainable water uses and N applications and maintaining crop yields under future warming, published in Nature Food.\n\n\n\n\n\n\n\nImpacts of air quality on photosynthesis\n\n\nUsing satellite observations, we reveal that reducing particulate pollution has the potential to enhance ecosystem productivity by increasing carbon uptake from the atmosphere, published in PNAS.\n\n\n\n\n\n\n\nUnequal exposure to heatwaves in Los Angeles\n\n\nUsing NASA ECOSTRESS data, we find that low-income neighborhoods in Los Angeles experience higher land surface temperature and lower evapotranspiration during heatwaves, published in Science Advances.\n\n\n\n\n\n\n\nGlobal patterns of nitrogen saturation in forests\n\n\nThe map of forest nitrogen status was developed to predict forest greenhouse gas emissions and support the implementation of region-specific environmental management practices, published in One Earth."
+  },
+  {
+    "objectID": "index.html#recent-publications",
+    "href": "index.html#recent-publications",
+    "title": "Welcome to EcoSense Lab",
+    "section": "Recent Publications",
+    "text": "Recent Publications\n\n\n\n\n\nGlobal patterns of nitrogen saturation in forests\n\n\nThe map of forest nitrogen status was developed to predict forest greenhouse gas emissions and support the implementation of region-specific environmental management practices, published in One Earth.\n\n\n\n\n\n\n\nIntegrated irrigation and nitrogen optimization for US maize and soybean\n\n\nThis study reveals the critical role of integrated management of irrigation and N inputs to adapt to climate change, promoting both sustainable water uses and N applications and maintaining crop yields under future warming, published in Nature Food.\n\n\n\n\n\n\n\nImpacts of air quality on photosynthesis\n\n\nUsing satellite observations, we reveal that reducing particulate pollution has the potential to enhance ecosystem productivity by increasing carbon uptake from the atmosphere, published in PNAS.\n\n\n\n\n\n\n\nUrban Cooling Solutions\n\n\nThis work assesses the efficacy of nature-based and reflective surface interventions in reducing urban heat islands."
+  },
+  {
+    "objectID": "index.html#recent-publications-1",
+    "href": "index.html#recent-publications-1",
+    "title": "Welcome to EcoSense Lab",
+    "section": "Recent Publications",
+    "text": "Recent Publications"
+  },
+  {
+    "objectID": "index.html#recent-publications-2",
+    "href": "index.html#recent-publications-2",
+    "title": "Welcome to EcoSense Lab",
+    "section": "Recent Publications",
+    "text": "Recent Publications\n\n\n<img src=\"images/greenspace.jpg\" class=\"card-img-top\" alt=\"Greening Urban Spaces\">\n<div class=\"card-body\">\n  <h5 class=\"card-title\">Greening Urban Spaces</h5>\n  <p class=\"card-text\">This study revealed how uneven green space distribution exacerbates heat exposure disparities across U.S. cities, with implications for environmental justice and urban planning.</p>\n</div>\n\n\n<img src=\"images/highlight2.jpg\" class=\"card-img-top\" alt=\"Publication 2\">\n<div class=\"card-body\">\n  <h5 class=\"card-title\">Climate Impacts on Agriculture</h5>\n  <p class=\"card-text\">This study explored how climate variability affects crop yields, using satellite data and AI-based modeling for South Asia.</p>\n</div>\n\n\n<img src=\"images/highlight3.jpg\" class=\"card-img-top\" alt=\"Publication 3\">\n<div class=\"card-body\">\n  <h5 class=\"card-title\">Carbon Flux Modeling</h5>\n  <p class=\"card-text\">Key findings include improved accuracy in GPP estimation from combining process-based models with neural networks.</p>\n</div>\n\n\n<img src=\"images/highlight4.jpg\" class=\"card-img-top\" alt=\"Publication 4\">\n<div class=\"card-body\">\n  <h5 class=\"card-title\">Urban Cooling Solutions</h5>\n  <p class=\"card-text\">This work assesses the efficacy of nature-based and reflective surface interventions in reducing urban heat islands.</p>\n</div>"
   }
 ]

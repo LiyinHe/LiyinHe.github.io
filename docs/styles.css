@@ -3,3 +3,110 @@ figcaption {
   margin: auto;
   text-align: center;
 }
+
+.group-header {
+  display: flex; /* Use flexbox for horizontal alignment */
+  align-items: flex-start; /* Align items to the top */
+  justify-content: space-between; /* Puts space between logo and description */
+  margin-bottom: 40px;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  text-align: left; /* Ensure text within header is left-aligned by default */
+  gap: 20px; /* Space between logo and description */
+}
+
+.logo-and-tagline {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Align logo and tagline to the left */
+  flex-shrink: 0;
+  margin-right: 20px; /* Space between this block and the description box */
+}
+
+.group-logo {
+  max-width: 300px;
+  height: auto;
+  flex-shrink: 0; /* Prevent logo from shrinking */
+  /* margin-bottom: 15px; Removed as flex handles spacing */
+}
+
+.tagline {
+  font-size: 0.9em; /* Smaller font for the tagline */
+  color: #666;
+  margin: 0;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.group-description-box {
+  flex-grow: 1; /* Allow description to take up remaining space */
+  max-width: 800px; /* Limit width for readability */
+}
+
+.group-description-box p {
+  font-size: 1.1em;
+  color: #444;
+  line-height: 1.6;
+  margin: 0; /* Remove default paragraph margin */
+  text-align: justify; /* Ensures text is justified (aligned to both left and right) */
+}
+
+.group-description-box ul {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 20px; /* Indent bullet points */
+}
+
+.group-description-box li {
+  margin-bottom: 5px;
+}
+
+.group-member {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 20px; /* Space between image and text */
+}
+
+.profile-pic {
+  border-radius: 0; /* Makes the image square */
+  width: 150px; /* Adjust size as needed */
+  height: 150px; /* Adjust size as needed */
+  object-fit: cover; /* Ensures image covers the area without distortion */
+  /* Removed border: 3px solid #007bff; */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow */
+}
+
+.profile-details {
+  flex-grow: 1; /* Allows the text content to take up the remaining space */
+  padding-left: 60%; /* Indents both h3 and p by 20% of this container's width */
+}
+
+.group-member h3 {
+  margin: 0;
+  color: #333; /* Darker text for names */
+  font-size: 1.15em; /* Made the font size smaller */
+}
+
+.group-member p {
+  margin: 0;
+  color: #555; /* Slightly lighter text for descriptions */
+  text-align: center; /* Ensures text is left-aligned */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .group-member {
+    flex-direction: column;
+    text-align: center; /* This centers the entire block on small screens */
+  }
+  .group-member p {
+    text-align: center; /* Ensure text is centered on small screens when the entire block is centered */
+  }
+  .profile-pic {
+    margin-bottom: 10px;
+  }
+}
+
