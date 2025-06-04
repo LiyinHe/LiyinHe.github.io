@@ -96,17 +96,55 @@ figcaption {
   text-align: center; /* Ensures text is left-aligned */
 }
 
-/* Responsive adjustments */
+/* Responsive adjustments for mobile devices */
 @media (max-width: 768px) {
   .group-member {
-    flex-direction: column;
-    text-align: center; /* This centers the entire block on small screens */
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+    padding: 10px 0;
   }
-  .group-member p {
-    text-align: center; /* Ensure text is centered on small screens when the entire block is centered */
+
+  .group-member p,
+  .group-member h3 {
+    text-align: center !important;
   }
-  .profile-pic {
+
+  .profile-pic,
+  .img-fluid.rounded-circle {
     margin-bottom: 10px;
+    width: 120px !important;
+    height: 120px !important;
+    object-fit: cover;
+  }
+
+  .profile-details {
+    padding-left: 0 !important;
+  }
+
+  .group-header {
+    flex-direction: column !important;
+    text-align: center !important;
+    align-items: center !important;
+  }
+
+  .logo-and-tagline {
+    align-items: center !important;
+    margin-bottom: 15px;
+  }
+
+  .group-logo {
+    max-width: 70%;
+    height: auto;
+  }
+
+  .group-description-box ul {
+    padding-left: 1.2rem;
+  }
+
+  .row > .col-md-6,
+  .row > .col-md-12 {
+    margin-bottom: 1.5rem;
   }
 }
 
