@@ -18,7 +18,7 @@ format:
       <b>We are ecologists at Duke University's <a href="https://nicholas.duke.edu/" target="_blank">Nicholas School of the Environment</a>, dedicated to understand terrestrial ecosystem processes using a variety of tools:</b>
       <ul>
         <li>Satellite remote sensing (Solar-induced chlorophyll fluorescence, Optical remote sensing, Thermal remote sensing)</li>
-        <li>Artificial intelligence (Interoperable AI, Process-informed machine learning)</li>
+        <li>Artificial intelligence (interpretable AI, Process-informed machine learning)</li>
         <li>Land surface modeling to better represent carbon and water fluxes</li>
       </ul>
   </p>
