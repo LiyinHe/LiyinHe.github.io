@@ -1,6 +1,6 @@
 ---
 title: "Wenqing Zhou"
-resources: people/resume/CV_Wenqing.pdf
+resources: people/resume/CV_WenqingZhou.pdf
 about:
   template: trestles
   image: pics/Wenqing_full.jpg
@@ -10,7 +10,7 @@ about:
       href: "mailto:wenqing.zhou@duke.edu"
     - icon: file-text
       text: resume   
-      href: people/resume/CV_Wenqing.pdf
+      href: people/resume/CV_WenqingZhou.pdf
 ---
 
 ::: {#hero-heading}
