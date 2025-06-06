@@ -43,6 +43,6 @@ Welcome to our team page! Here you will find information about the dedicated mem
 
 <div class="group-member">
   <h3>Hongru Wang   </h3>
-  <p>Visiting PhD student from the Chinese University of Hong Kong, working on air pollution on terrestrial carbon uptake (Dec 2025-May 2026)</p>
+  <p>Visiting PhD student from the Chinese University of Hong Kong, working on the impacts of air quality on terrestrial carbon uptake (Dec 2025-May 2026)</p>
 </div>
 :::
