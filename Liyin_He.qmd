@@ -40,9 +40,11 @@ about:
 -   **Major**: Environmental Science & Engineering\
 -   **Minor**: Applied and Computational Mathematics\
 -   **Thesis Advisory Committee**: Dr. Christian Frankenberg (advisor), Dr. Paul Wennberg (chair), Dr. Yuk Yung and Dr. David Schimel\
--   **Thesis**: [Agriculture and Its Role in the Global Carbon Cycle](https://thesis.library.caltech.edu/15140/)
+-   **Thesis**: [Agriculture and Its Role in the Global Carbon Cycle](https://thesis.library.caltech.edu/15140/)\
+-   [Resnick Graduate Fellow](https://resnick.caltech.edu/people/liyin-he)\
 
 **Nanjing University** \| B.S \|Sep 2012 - Jun 2016\
 -   **Major**: Geographic Information Science (with honor)\
+-   **National Scholarship** (within 1%, 2015)\
 -   **Minor**: Financial Engineering
 :::
