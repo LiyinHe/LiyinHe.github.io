@@ -23,7 +23,7 @@ about:
 ---
 
 ::: {#hero-heading}
-**My research focuses on understanding the **interrelationship between air, water, and ecosystem in the face of climate change, elevated CO~2~, air pollution, and different management practices. I use three main approaches: 1) **spatiotemporal data analysis** to interpret field and satellite observations; 2) **machine learning approaches** to generate novel datasets; and 3) **process-based terrestrial biosphere models** to understand the underlying mechanism. My work encompasses a wide range of scales---from the **micro-level interactions within individual plants** to **macro-level regional and global patterns**.
+My research focuses on understanding the **interrelationship between air, water, and ecosystem** in the face of climate change, elevated CO~2~, air pollution, and different management practices. I use three main approaches: 1) **spatiotemporal data analysis** to interpret field and satellite observations; 2) **machine learning approaches** to generate novel datasets; and 3) **process-based terrestrial biosphere models** to understand the underlying mechanism. My work encompasses a wide range of scales---from the **micro-level interactions within individual plants** to **macro-level regional and global patterns**.
 
 ## **Appointment**
 
