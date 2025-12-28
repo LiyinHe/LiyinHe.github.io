@@ -42,7 +42,7 @@ format:
   <img src="pics/publications/He_NF.jpg" class="card-img-top" alt="Publication 2">
   <div class="card-body">
   <h5 class="card-title">Global irrigation expansion under future warming</h5>
-  <p class="card-text">We quantified warming-induced crop yield changes and the irrigation expansion required to offset associated yield losses, accepted in <strong><em>Nature Food</em></strong>.</p>
+  <p class="card-text">We quantified warming-induced crop yield changes and the irrigation expansion required to offset associated yield losses (accepted in <strong><em>Nature Food</em></strong>, He &amp; Rosa).</p>
   </div>
   </div>
   
