@@ -159,5 +159,19 @@
     "title": "Welcome to EcoSense Lab",
     "section": "Recent Publications",
     "text": "Recent Publications\n\n\n<img src=\"images/greenspace.jpg\" class=\"card-img-top\" alt=\"Greening Urban Spaces\">\n<div class=\"card-body\">\n  <h5 class=\"card-title\">Greening Urban Spaces</h5>\n  <p class=\"card-text\">This study revealed how uneven green space distribution exacerbates heat exposure disparities across U.S. cities, with implications for environmental justice and urban planning.</p>\n</div>\n\n\n<img src=\"images/highlight2.jpg\" class=\"card-img-top\" alt=\"Publication 2\">\n<div class=\"card-body\">\n  <h5 class=\"card-title\">Climate Impacts on Agriculture</h5>\n  <p class=\"card-text\">This study explored how climate variability affects crop yields, using satellite data and AI-based modeling for South Asia.</p>\n</div>\n\n\n<img src=\"images/highlight3.jpg\" class=\"card-img-top\" alt=\"Publication 3\">\n<div class=\"card-body\">\n  <h5 class=\"card-title\">Carbon Flux Modeling</h5>\n  <p class=\"card-text\">Key findings include improved accuracy in GPP estimation from combining process-based models with neural networks.</p>\n</div>\n\n\n<img src=\"images/highlight4.jpg\" class=\"card-img-top\" alt=\"Publication 4\">\n<div class=\"card-body\">\n  <h5 class=\"card-title\">Urban Cooling Solutions</h5>\n  <p class=\"card-text\">This work assesses the efficacy of nature-based and reflective surface interventions in reducing urban heat islands.</p>\n</div>"
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "EcoSense Lab",
+    "section": "",
+    "text": "I teach courses that integrate environmental science, data science, and climate solutions, with an emphasis on real-world applications and interdisciplinary thinking."
+  },
+  {
+    "objectID": "Teaching.html#courses",
+    "href": "Teaching.html#courses",
+    "title": "EcoSense Lab",
+    "section": "Courses",
+    "text": "Courses\n\nEnvironmental Machine Learning (Fall 2025)\nThis course explores how to work with environmental datasets, which contain both temporal and spatial information, and apply foundational, widely used machine learning algorithms to better understand and address environmental challenges. Through real-world case studies and hands-on coding, we will use modern data-driven tools to uncover patterns in complex environmental systems. Course syllabus\nNatural Climate Solutions: An Ecosystem and Carbon Cycle Perspective (Spring 2026)\nThis course explores the scientific foundations of natural climate solutions, focusing on climate change, ecosystem processes, carbon cycling, and the role of land management in climate mitigation and sustainability."
   }
 ]

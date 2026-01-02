@@ -1,0 +1,16 @@
+---
+date: today
+date-format: "MMM D, YYYY"
+---
+
+I teach courses that integrate environmental science, data science, and climate solutions, with an emphasis on real-world applications and interdisciplinary thinking.
+
+## Courses
+
+- **Environmental Machine Learning** *(Fall 2025)*  
+  This course explores how to work with environmental datasets, which contain both temporal and spatial information, and apply foundational, widely used machine learning algorithms to better understand and address environmental challenges. Through real-world case studies and hands-on coding, we will use modern data-driven tools to uncover patterns in complex environmental systems.
+  [Course syllabus](courses/Syllabus-ENV514.pdf)
+
+- **Natural Climate Solutions: An Ecosystem and Carbon Cycle Perspective**  *(Spring 2026)*  
+  This course explores the scientific foundations of natural climate solutions, focusing on climate change, ecosystem processes, carbon cycling, and the role of land management in climate mitigation and sustainability.
+
