@@ -45,6 +45,15 @@ format:
   </div>
   </div>
 -->
+
+  <div class="card d-inline-block me-3" style="width: 60%; max-width: 530px; scroll-snap-align: start;">
+  <img src="pics/publications/He_CEE.jpg" class="card-img-top" alt="Publication 2">
+  <div class="card-body">
+  <h5 class="card-title">Reclaiming abandoned croplands under warming</h5>
+  <p class="card-text">We used AI-based methods to identify the potential for reclaiming abandoned croplands to improve wheat production under warming, published in <a href="https://www.nature.com/articles/s43247-026-03386-2" target="_blank">*Communications Earth & Environment*</a>.</p>
+  </div>
+  </div>
+  
   <div class="card d-inline-block me-3" style="width: 60%; max-width: 530px; scroll-snap-align: start;">
   <img src="pics/publications/Cen_NC.jpg" class="card-img-top" alt="Publication 2">
   <div class="card-body">
