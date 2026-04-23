@@ -36,7 +36,7 @@ format:
 
 ## Research Highlights
 <div style="overflow-x: auto; white-space: nowrap; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
-<!--
+
   <div class="card d-inline-block me-3" style="width: 60%; max-width: 530px; scroll-snap-align: start;">
   <img src="pics/publications/He_NF.jpg" class="card-img-top" alt="Publication 2">
   <div class="card-body">
@@ -44,7 +44,6 @@ format:
   <p class="card-text">We quantified warming-induced crop yield changes and the irrigation expansion required to offset associated yield losses (accepted in <strong><em>Nature Food</em></strong>, He &amp; Rosa).</p>
   </div>
   </div>
--->
 
   <div class="card d-inline-block me-3" style="width: 60%; max-width: 530px; scroll-snap-align: start;">
   <img src="pics/publications/He_CEE.jpg" class="card-img-top" alt="Publication 2">
@@ -86,6 +85,7 @@ format:
   </div>
   </div>
 
+<!--
   <div class="card d-inline-block" style="width: 60%; max-width: 530px; scroll-snap-align: start;">
   <img src="pics/publications/Cen_OneEarth.jpg" class="card-img-top" alt="Greening Urban Spaces">
   <div class="card-body">
@@ -93,6 +93,7 @@ format:
   <p class="card-text">The map of forest nitrogen status is developed to support the implementation of region-specific environmental management practices, published in <a href="https://www.cell.com/one-earth/fulltext/S2590-3322(24)00531-1" target="_blank">*One Earth*</a>.</p>
   </div>
   </div>
+-->
   
 </div>
 
